@@ -21,4 +21,6 @@ The average and Gaussian filters, being linear, just smooth everything out, whic
 
 If I were to do this again, I’d try an adaptive filter. That kind of filter is smart enough to check if a pixel is noise or part of an important edge, so it could filter heavily where needed and lightly everywhere else, giving us the best of both worlds.
 
-![images]()
+![images](https://github.com/Khan548-codes/Lab-4-Noise-and-Filtering/blob/main/images/ss1.png)
+![images](https://github.com/Khan548-codes/Lab-4-Noise-and-Filtering/blob/main/images/ss2.png)
+![images](https://github.com/Khan548-codes/Lab-4-Noise-and-Filtering/blob/main/images/ss3.png)
